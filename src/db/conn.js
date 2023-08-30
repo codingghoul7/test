@@ -15,7 +15,7 @@ const mongoose = require ("mongoose");
 //   mongoose.set("strictQuery", false);
 //   await mongoose.connect("mongodb://127.0.0.1/wikiDB",{useNewUrlParser:true});
 //   console.log("Connected");}
-\
+
 
 const connectDB = async () => {
   try {
